@@ -1,0 +1,6 @@
+sublime-text-2/Packages/*/*.pyc
+sublime-text-2/Packages/*/*/*.pyc
+sublime-text-2/Packages/*/*/*/*.pyc
+sublime-text-2/Packages/*/*/*/*/*.pyc
+sublime-text-2/Packages/*/*.cache
+sublime-text-2/Packages/User/*.last-run
